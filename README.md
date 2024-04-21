@@ -12,7 +12,7 @@ This repository contains a collection of programs written in C. The programs are
 - **Medium**
   - [ ] Contact list
   - [ ] Bank simulation
-  - [ ] Password generator
+  - [x] [Password generator](https://github.com/rvHoney/c-challenges/tree/main/medium/password_generator)
 - **Hard**
   - [ ] Tic-tac-toe
   - [ ] Text Analyzer
