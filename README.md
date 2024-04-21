@@ -6,7 +6,7 @@ This repository contains a collection of programs written in C. The programs are
 
 ## Programs
 - **Easy**
-  - [ ] Basic calculator
+  - [x] [Basic calculator](https://github.com/rvHoney/c-challenges/tree/main/easy/basic_calculator)
   - [x] [Guess the number](https://github.com/rvHoney/c-challenges/tree/main/easy/guess_the_number)
   - [ ] Fahrenheit to Celsius converter
 - **Medium**
