@@ -8,7 +8,7 @@ This repository contains a collection of programs written in C. The programs are
 - **Easy**
   - [x] [Basic calculator](https://github.com/rvHoney/c-challenges/tree/main/easy/basic_calculator)
   - [x] [Guess the number](https://github.com/rvHoney/c-challenges/tree/main/easy/guess_the_number)
-  - [ ] Fahrenheit to Celsius converter
+  - [x] [Fahrenheit to Celsius converter](https://github.com/rvHoney/c-challenges/tree/main/easy/fahrenheit_to_celsius_converter)
 - **Medium**
   - [ ] Contact list
   - [ ] Bank simulation
