@@ -6,21 +6,21 @@ This repository contains a collection of programs written in C. The programs are
 
 ## Programs
 - **Easy**
-  - [] Basic calculator
-  - [] Guess the number
-  - [] Fahrenheit to Celsius converter
+  - [ ] Basic calculator
+  - [ ] Guess the number
+  - [ ] Fahrenheit to Celsius converter
 - **Medium**
-  - [] Contact list
-  - [] Bank simulation
-  - [] Password generator
+  - [ ] Contact list
+  - [ ] Bank simulation
+  - [ ] Password generator
 - **Hard**
-  - [] Tic-tac-toe
-  - [] Text Analyzer
-  - [] Rock, paper, scissors
+  - [ ] Tic-tac-toe
+  - [ ] Text Analyzer
+  - [ ] Rock, paper, scissors
 - **Expert**
-  - [] Commands interpreter
-  - [] File manager
-  - [] Task manager
+  - [ ] Commands interpreter
+  - [ ] File manager
+  - [ ] Task manager
 
 ## Author
 - [rvHoney](https://github.com/rvHoney)
