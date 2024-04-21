@@ -10,7 +10,7 @@ This repository contains a collection of programs written in C. The programs are
   - [x] [Guess the number](https://github.com/rvHoney/c-challenges/tree/main/easy/guess_the_number)
   - [x] [Fahrenheit to Celsius converter](https://github.com/rvHoney/c-challenges/tree/main/easy/fahrenheit_to_celsius_converter)
 - **Medium**
-  - [ ] Contact list
+  - [x] [Contact list](https://github.com/rvHoney/c-challenges/tree/main/medium/contact_list)
   - [ ] Bank simulation
   - [x] [Password generator](https://github.com/rvHoney/c-challenges/tree/main/medium/password_generator)
 - **Hard**
